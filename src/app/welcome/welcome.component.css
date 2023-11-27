@@ -20,19 +20,17 @@ h1, h2, p {
     color: #333;
   }
   
-  /* Style the welcome message */
   p {
     color: #666;
   }
   
-  /* Style the widgets */
+
   .widget {
     margin-top: 20px;
   }
   
-  /* Style widget headings */
   .widget h3 {
-    color: #1E90FF; /* Dodger Blue */
+    color: #1E90FF; 
   }
 
 
